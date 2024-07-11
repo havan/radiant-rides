@@ -20,3 +20,11 @@ Celebrate with Sunny Cars and experience the journey!
 ![](./assets/sunnycars-anniversary-nft-square-1024.webp)
 
 [![Static Badge](https://img.shields.io/badge/Artist-Gerrit%20Halfmann-dimgrey?style=for-the-badge)](https://gerrithalfmann.com/)
+
+### Contract Address
+
+Contract address on Camino Network mainnet is below. You can also check it out on [the CaminoScan explorer](https://caminoscan.com/token/0x06608dDe2A83b9CF9316C3dD90B167A75778929a).
+
+```
+0x06608dDe2A83b9CF9316C3dD90B167A75778929a
+```

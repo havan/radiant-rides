@@ -40,6 +40,7 @@ module.exports = {
   etherscan: {
     apiKey: {
       columbus: "abc",
+      camino: "abc",
     },
     customChains: [
       {
@@ -48,6 +49,14 @@ module.exports = {
         urls: {
           apiURL: "https://columbus.caminoscan.com/api",
           browserURL: "https://columbus.caminoscan.com",
+        },
+      },
+      {
+        network: "camino",
+        chainId: 500,
+        urls: {
+          apiURL: "https://caminoscan.com/api",
+          browserURL: "https://caminoscan.com",
         },
       },
     ],
